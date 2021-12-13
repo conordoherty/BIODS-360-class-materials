@@ -1,6 +1,6 @@
-# Global long-term economic growth
+# Global economic growth
 
-Your living conditions and quality of life are highly biaserd by where
+Your living conditions and quality of life are highly biased by where
 you live, and in particular, by the strength of the economy where you live.
 
 Modelling the world economy over a long-period time may allow economists to
