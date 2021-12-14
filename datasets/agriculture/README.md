@@ -5,3 +5,5 @@ Specific datasets from:
 https://ourworldindata.org/land-use
 
 https://ourworldindata.org/agricultural-production
+
+https://ourworldindata.org/water-use-stress
